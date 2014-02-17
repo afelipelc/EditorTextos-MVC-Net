@@ -1,0 +1,14 @@
+E:\afelipelcDocs\CSharp\EditorDeTextos\ControladorEditorTextos\obj\Debug\ResolveAssemblyReference.cache
+E:\afelipelcDocs\CSharp\EditorDeTextos\ControladorEditorTextos\bin\Debug\ControladorEditorTextos.dll
+E:\afelipelcDocs\CSharp\EditorDeTextos\ControladorEditorTextos\bin\Debug\ControladorEditorTextos.pdb
+E:\afelipelcDocs\CSharp\EditorDeTextos\ControladorEditorTextos\bin\Debug\ModeloDominio.dll
+E:\afelipelcDocs\CSharp\EditorDeTextos\ControladorEditorTextos\bin\Debug\ModeloDominio.pdb
+E:\afelipelcDocs\CSharp\EditorDeTextos\ControladorEditorTextos\obj\Debug\ControladorEditorTextos.dll
+E:\afelipelcDocs\CSharp\EditorDeTextos\ControladorEditorTextos\obj\Debug\ControladorEditorTextos.pdb
+D:\afelipelcDocs\CSharp\EditorDeTextos\ControladorEditorTextos\bin\Debug\ControladorEditorTextos.dll
+D:\afelipelcDocs\CSharp\EditorDeTextos\ControladorEditorTextos\bin\Debug\ControladorEditorTextos.pdb
+D:\afelipelcDocs\CSharp\EditorDeTextos\ControladorEditorTextos\bin\Debug\ModeloDominio.dll
+D:\afelipelcDocs\CSharp\EditorDeTextos\ControladorEditorTextos\bin\Debug\ModeloDominio.pdb
+D:\afelipelcDocs\CSharp\EditorDeTextos\ControladorEditorTextos\obj\Debug\ResolveAssemblyReference.cache
+D:\afelipelcDocs\CSharp\EditorDeTextos\ControladorEditorTextos\obj\Debug\ControladorEditorTextos.dll
+D:\afelipelcDocs\CSharp\EditorDeTextos\ControladorEditorTextos\obj\Debug\ControladorEditorTextos.pdb

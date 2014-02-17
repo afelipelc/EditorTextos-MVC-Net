@@ -1,0 +1,10 @@
+E:\afelipelcDocs\CSharp\EditorDeTextos\ModeloDominio\bin\Debug\ModeloDominio.dll
+E:\afelipelcDocs\CSharp\EditorDeTextos\ModeloDominio\bin\Debug\ModeloDominio.pdb
+E:\afelipelcDocs\CSharp\EditorDeTextos\ModeloDominio\obj\Debug\ResolveAssemblyReference.cache
+E:\afelipelcDocs\CSharp\EditorDeTextos\ModeloDominio\obj\Debug\ModeloDominio.dll
+E:\afelipelcDocs\CSharp\EditorDeTextos\ModeloDominio\obj\Debug\ModeloDominio.pdb
+D:\afelipelcDocs\CSharp\EditorDeTextos\ModeloDominio\bin\Debug\ModeloDominio.dll
+D:\afelipelcDocs\CSharp\EditorDeTextos\ModeloDominio\bin\Debug\ModeloDominio.pdb
+D:\afelipelcDocs\CSharp\EditorDeTextos\ModeloDominio\obj\Debug\ResolveAssemblyReference.cache
+D:\afelipelcDocs\CSharp\EditorDeTextos\ModeloDominio\obj\Debug\ModeloDominio.dll
+D:\afelipelcDocs\CSharp\EditorDeTextos\ModeloDominio\obj\Debug\ModeloDominio.pdb
